@@ -1,0 +1,6 @@
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\אימות שם משתמש וסיסמה\אימות שם משתמש וסיסמה\bin\Debug\אימות שם משתמש וסיסמה.exe.config
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\אימות שם משתמש וסיסמה\אימות שם משתמש וסיסמה\obj\Debug\אימות שם משתמש וסיסמה.csprojResolveAssemblyReference.cache
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\אימות שם משתמש וסיסמה\אימות שם משתמש וסיסמה\bin\Debug\אימות שם משתמש וסיסמה.exe
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\אימות שם משתמש וסיסמה\אימות שם משתמש וסיסמה\bin\Debug\אימות שם משתמש וסיסמה.pdb
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\אימות שם משתמש וסיסמה\אימות שם משתמש וסיסמה\obj\Debug\אימות שם משתמש וסיסמה.exe
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\אימות שם משתמש וסיסמה\אימות שם משתמש וסיסמה\obj\Debug\אימות שם משתמש וסיסמה.pdb
